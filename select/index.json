@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "うれしい！たのしい！大好き！",
+  "base_artist": "Dreams Come True",
+  "createdAt": "2026-01-04T15:03:24.943848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き!",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_うれしい!たのしい!大好き!_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き! - WINNER Ver.",
+      "artist": "WINNER",
+      "has_synced": false,
+      "path": "select/02_うれしい!たのしい!大好き!_-_WINNER_Ver._WINNER.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き!",
+      "artist": "E-Girls",
+      "has_synced": true,
+      "path": "select/03_うれしい!たのしい!大好き!_E-Girls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き!",
+      "artist": "E-girls",
+      "has_synced": true,
+      "path": "select/04_うれしい!たのしい!大好き!_E-girls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！ – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_うれしい!たのしい!大好き!_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！(‘EVERLASTING’ VERSION)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/06_うれしい!たのしい!大好き!(‘EVERLASTING’_VERSION)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！ - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_うれしい!たのしい!大好き!_-_DOSCO_prime_Version_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "うれしい! たのしい! 大好き! ('everlasting' Version)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/08_うれしい!_たのしい!_大好き!_('everlasting'_Version)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き! ('EVERLASTING'VERSION)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/09_うれしい!たのしい!大好き!_('EVERLASTING'VERSION)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "うれしい!たのしい!大好き!",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/10_うれしい!たのしい!大好き!_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！(‘EVERLASTING’ VERSION)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/11_うれしい!たのしい!大好き!(‘EVERLASTING’_VERSION)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！ －15th ANNIVERSARY SPECIAL－ - 15th ANNIVERSARY SPECIAL",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/12_うれしい!たのしい!大好き!_-15th_ANNIVERSARY_SPECIAL-_-_15th_ANNIVERSARY_SPECIAL_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "うれしい! たのしい! 大好き!",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/13_うれしい!_たのしい!_大好き!_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "うれしい！たのしい！大好き！",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/14_うれしい!たのしい!大好き!_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "THIS IS IT! YOU'RE THE ONE! I KNEW IT! -「うれしい！たのしい！大好き！」ENGLISH VERSION-",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/15_THIS_IS_IT!_YOU'RE_THE_ONE!_I_KNEW_IT!_-「うれしい!たのしい!大好き!」ENGLISH_VERSION-_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "うれしい! たのしい! 大好き! (‘EVERLASTING’ VERSION)",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/16_うれしい!_たのしい!_大好き!_(‘EVERLASTING’_VERSION)_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ureshii! Tanoshii! Daisuki! (うれしい!たのしい!大好き!)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/17_Ureshii!_Tanoshii!_Daisuki!_(うれしい!たのしい!大好き!)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うれしい!たのしい!大好き!",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_うれしい!たのしい!大好き!_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
